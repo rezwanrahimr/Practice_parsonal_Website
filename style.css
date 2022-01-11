@@ -1,0 +1,44 @@
+body {
+    margin: 70px;
+    font-family: 'Balsamiq Sans',
+}
+
+.half-width {
+    width: 50%;
+}
+
+.section-one {
+    display: flex;
+}
+
+h1 {
+    font-size: 60px;
+    margin-left: 20px;
+}
+
+.top-img {
+    width: 70%;
+    margin-left: 50px;
+}
+
+.explore-button {
+    background-color: tomato;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.some-text {
+    text-align: justify;
+}
+
+.h1-titel {
+    line-height: 20px;
+    border-left: 5px solid tomato;
+}
+
+.titel-two {
+    color: orange;
+}
